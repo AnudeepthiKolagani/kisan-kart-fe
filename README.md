@@ -18,11 +18,15 @@ pnpm dev
 # or
 bun dev
 ```
+## Current Features
+1.Create your account by registering / Login to the application
+2.User will be able to add products to the widhlist / cart
+3.User will be able to add/update their address
+4.User will be able place an order by selecting the products
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-arn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##Future Scope
+1.Can incluse Ratings /Reviews
+2.Place return request
+3.Include online payment / payment integration
 
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+By using this application any user can buy products which are related to farming
