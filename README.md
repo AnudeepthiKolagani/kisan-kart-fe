@@ -19,14 +19,18 @@ pnpm dev
 bun dev
 ```
 ## Current Features
+```
 1.Create your account by registering / Login to the application
 2.User will be able to add products to the widhlist / cart
 3.User will be able to add/update their address
 4.User will be able place an order by selecting the products
+```
 
-##Future Scope
+## Future Scope
+```
 1.Can incluse Ratings /Reviews
 2.Place return request
 3.Include online payment / payment integration
+```
 
 By using this application any user can buy products which are related to farming
