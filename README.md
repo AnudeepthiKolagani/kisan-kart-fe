@@ -66,7 +66,7 @@ NEXT_PUBLIC_API_URL=http://localhost:5000
 
 After adding the environment variables, restart the development server.
 
-## Run the Development Server
+### 3. Run the Development Server
 
 ```bash
 npm run dev
@@ -84,9 +84,15 @@ Open your browser and navigate to:
 http://localhost:3000
 ```
 
+### 4. Initial Product Setup Using Admin Account
+
+- During the initial setup phase of the website, products will be added manually through the admin account. 
+- This process ensures that the website is populated with accurate and complete product information before it goes live.
+
 ## Current Features
 
 - User Registration and Login
+-Admin users can add products to the website
 - Add Products to Cart
 - Add Products to Wishlist
 - Add and Update Delivery Address
